@@ -1,0 +1,21 @@
+# Virtual Environment
+plant_env/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datasets (ලොකු නිසා upload කරන්නේ නෑ)
+dataset/
+*.zip
+
+# Models (අපි train කරන models)
+models/
+*.h5
+*.pkl
+*.tflite
+
+# VS Code settings
+.vscode/

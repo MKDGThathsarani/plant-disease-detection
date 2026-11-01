@@ -1,6 +1,5 @@
 """
 Training Script for Plant Disease Classifier
-මේකෙන් තමයි අපේ MobileNetV2 model එක train කරන්නේ.
 """
 
 import tensorflow as tf
@@ -45,8 +44,6 @@ def train():
     
     print("✅ Training Complete!")
     print(f"Model saved at: {model_path}")
-    
-    return history
 
 if __name__ == "__main__":
     train()

@@ -19,3 +19,5 @@ models/
 
 # VS Code settings
 .vscode/
+
+data/archive/

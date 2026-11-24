@@ -8,6 +8,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Datasets (ලොකු නිසා upload කරන්නේ නෑ)
+data/
 dataset/
 *.zip
 

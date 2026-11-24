@@ -21,3 +21,11 @@ models/
 .vscode/
 
 data/archive/
+
+# Datasets (images විශාල නිසා GitHub එකට යවන්නේ නෑ)
+data/
+data/train/
+data/val/
+
+# Virtual Environment
+plant_env/

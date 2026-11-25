@@ -60,5 +60,6 @@ history = model.fit(
 )
 
 # --- 7. Save කරමු ---
-model.save("models/plant_classification_mobilenetv2.h5")
+# අලුත් විදිහට save කරමු (Keras native format)
+model.save("models/plant_classification_mobilenetv2.keras")
 print("\n🎉 Model එක Train කරලා 'models/plant_classification_mobilenetv2.h5' විදිහට Save කරලා ඉවරයි!")
